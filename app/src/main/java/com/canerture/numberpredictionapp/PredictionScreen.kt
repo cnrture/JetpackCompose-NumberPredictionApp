@@ -116,7 +116,7 @@ fun PredictionScreen(navController: NavController) {
         ) {
 
             Text(
-                text = "Let's Prediction",
+                text = "Let's Predict",
                 color = colorResource(id = R.color.green),
                 fontSize = 18.sp,
                 fontWeight = FontWeight.Bold
